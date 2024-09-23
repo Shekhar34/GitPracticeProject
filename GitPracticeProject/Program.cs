@@ -10,7 +10,7 @@ namespace GitPracticeProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello c#");
+            Console.WriteLine("hello c# again modified");
         }
     }
 }
